@@ -1,0 +1,27 @@
+.glider figure{
+    background:white !important;
+    display: block;
+    margin: 1.5em;
+    padding: .7em;
+}
+
+.glider blockquote {
+    padding: .5em;
+    font-style: italic;
+    text-align: center;
+}
+
+.glider figcaption{
+    text-align: center;
+    margin-bottom: 1em;
+    margin-top: 2em;
+    font-size: large;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #1B5374;
+}
+
+.glider-next{
+    right: -50px;
+    color: blacks;
+}

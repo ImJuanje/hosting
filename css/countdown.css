@@ -1,0 +1,47 @@
+.containerCount{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+.containerCount h1{
+    text-align: center;
+    color: #f9f5f6;
+    font-size: 40px;
+
+}
+
+.containerCount p{
+    display: grid;
+    place-items: center;
+    border:solid 1px white;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: #1B5374;
+}
+
+.containerCount span{
+    display: block;
+    padding: 10px;
+    color: #252525;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.countdown{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.countdown div{
+
+    display: grid;
+    padding: 10px;
+    color: white;
+}
